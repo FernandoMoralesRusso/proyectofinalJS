@@ -1,0 +1,65 @@
+[
+    {
+        "id":"1",
+        "nombre":"Mini Astrophytum Ornatum",
+        "descripcion": "Tambien conocido como Cactus Estrella.",
+        "precio": 800,
+        "foto": "../media/producto1.jpg"
+    },
+    {
+        "id":"2",
+        "nombre":"Echinopsis Eyriesii",
+        "descripcion": "Cactus Resistente, que aguanta casi todo.",
+        "precio": 700,
+        "foto": "../media/producto2.jpg"
+    },
+    {
+        "id":"3",
+        "nombre":"Eriosyce Senilis",
+        "descripcion": "espinas blanquecinas y retorcidas.",
+        "precio": 850,
+        "foto": "../media/producto3.jpg"
+    },
+    {
+        "id":"4",
+        "nombre":"Sulcorebutia Rauschii",
+        "descripcion": "planta rara y muy original debido al contraste de colores morados y verdes que adopta.",
+        "precio": 1000,
+        "foto": "../media/producto4.jpg"
+    },
+    {
+        "id":"5",
+        "nombre":"Astrophytum Myriostigma",
+        "descripcion": "No tiene espinas, da grandes flores amarillas. Prefiere la semisombra al pleno sol. ",
+        "precio": 2000,
+        "foto": "../media/producto5.jpg"
+    },
+    {
+        "id":"6",
+        "nombre":"Richocereus Bridgesii",
+        "descripcion": "crece formando monstruosos abanicos verticales. Debido a su inusual estructura.",
+        "precio": 7500,
+        "foto": "../media/producto6.jpg"
+    },
+    {
+        "id":"7",
+        "nombre":"Polaskia Chichipe",
+        "descripcion": "Su cuerpo es azulado y posee espinas. Puede estar a pleno sol o en semisombra.",
+        "precio": 4500,
+        "foto": "../media/producto7.jpg"
+    },
+    {
+        "id":"8",
+        "nombre":"Peruvianus Monstruosa",
+        "descripcion": "Adopta una curiosa forma al crecer horizontalmente en vez de hacia arriba",
+        "precio": 600,
+        "foto": "../media/producto8.jpg"
+    },
+    {
+        "id":"9",
+        "nombre":"Copiapoa Humilis",
+        "descripcion": "Sus flores de color amarillo azufre crecen en la parte superior de la planta.",
+        "precio": 800,
+        "foto": "../media/producto9.jpg"
+    }
+]
